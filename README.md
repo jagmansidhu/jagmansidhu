@@ -6,7 +6,7 @@
 #### Building out a personal project focused on Natural Language Processing.
 
 ### 💻 My Skillset
-|t | T |
+| |  |
 | --- | --- |
 | Languages | Python, JavaScript, Java |
 | Frontend | React, HTML, CSS, Tailwind CSS |
