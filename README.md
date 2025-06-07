@@ -1,42 +1,29 @@
-👋 Hi there, I'm Jagman!
+## 👋 Hi there, I'm Jagman!
 
-🚀 About Me
+## 🌱 What I'm Currently Working On
+### Learning more about Spring Security and Typescript.
 
-🌱 What I'm Currently Working On
-Learning more about Spring Security and Typescript.
+### Building out a personal project focused on Natural Language Processing.
 
-Building out a personal project focused on Natural Language Processing.
+## 💻 My Skillset
+#### Languages
+#### Python, JavaScript, Java
 
-💻 My Skillset
-Category
+#### Frontend
+#### React, HTML, CSS, Tailwind CSS
 
-Skills
+### Backend
+#### Flask, Spring Boot
 
-Languages
+#### Databases
+#### PostgreSQL, MySQL
 
-Python, JavaScript, Java
+#### Cloud/DevOps
+#### AWS, Docker, Git, CI/CD
 
-Frontend
+#### Tools
+#### IntelliJ, VS Code, Postman
 
-React, HTML, CSS, Tailwind CSS
-
-Backend
-
-Flask, Spring Boot
-
-Databases
-
-PostgreSQL, MySQL
-
-Cloud/DevOps
-
-AWS, Docker, Git, CI/CD
-
-Tools
-
-VS Code, Postman
-
-📫 Connect With Me
-Let's connect and build something amazing!
-
-LinkedIn: https://www.linkedin.com/in/jagman-s-39983a214/
+### 📫 Connect With Me
+#### Let's connect and build something amazing!
+#### LinkedIn: https://www.linkedin.com/in/jagman-s-39983a214/
