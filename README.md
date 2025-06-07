@@ -1,11 +1,11 @@
 ### 👋 Hi there, I'm Jagman!
 
-#### 🌱 What I'm Currently Working On
+### 🌱 What I'm Currently Working On
 ##### Learning more about Spring Security and Typescript.
 
 ##### Building out a personal project focused on Natural Language Processing.
 
-#### 💻 My Skillset
+### 💻 My Skillset
 | |  |
 | --- | --- |
 | Languages | Python, JavaScript, Java |
@@ -15,6 +15,6 @@
 | Cloud/DevOps | AWS, Docker, Git, CI/CD |
 | Tools | IntelliJ, VS Code, Postman |
 
-#### 📫 Connect With Me
+### 📫 Connect With Me
 ##### Let's connect and build something amazing!
 ##### LinkedIn: https://www.linkedin.com/in/jagman-s-39983a214/
