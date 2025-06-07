@@ -1,7 +1,4 @@
-## Hi I'm Jagman
-
-### Computer Science Student @ University of British Columbia
-
+## Hi there, i'm Jagman!
 <!--
 **jagmansidhu/jagmansidhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
