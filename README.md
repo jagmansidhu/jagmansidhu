@@ -1,15 +1,42 @@
-## Hi there, i'm Jagman!
-<!--
-**jagmansidhu/jagmansidhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there, I'm Jagman!
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 What I'm Currently Working On
+Learning more about Spring Security and Typescript.
+
+Building out a personal project focused on Natural Language Processing.
+
+💻 My Skillset
+Category
+
+Skills
+
+Languages
+
+Python, JavaScript, Java
+
+Frontend
+
+React, HTML, CSS, Tailwind CSS
+
+Backend
+
+Flask, Spring Boot
+
+Databases
+
+PostgreSQL, MySQL
+
+Cloud/DevOps
+
+AWS, Docker, Git, CI/CD
+
+Tools
+
+VS Code, Postman
+
+📫 Connect With Me
+Let's connect and build something amazing!
+
+LinkedIn: https://www.linkedin.com/in/jagman-s-39983a214/
