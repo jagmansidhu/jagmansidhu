@@ -14,7 +14,3 @@
 | Databases | PostgreSQL, MySQL |
 | Cloud/DevOps | AWS, Docker, Git, CI/CD |
 | Tools | IntelliJ, VS Code, Postman |
-
-### 📫 Connect With Me
-##### Let's connect and build something amazing!
-##### LinkedIn: https://www.linkedin.com/in/jagman-s-39983a214/
