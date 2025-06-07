@@ -6,17 +6,14 @@
 #### Building out a personal project focused on Natural Language Processing.
 
 ### 💻 My Skillset
-#### Languages | Python, JavaScript, Java
-
-#### Frontend | React, HTML, CSS, Tailwind CSS
-
-### Backend | Flask, Spring Boot
-
-#### Databases | PostgreSQL, MySQL
-
-#### Cloud/DevOps | AWS, Docker, Git, CI/CD
-
-#### Tools | IntelliJ, VS Code, Postman
+| --- | --- |
+| #### Languages | Python, JavaScript, Java |
+| #### Frontend | React, HTML, CSS, Tailwind CSS |
+| #### Backend | Flask, Spring Boot |
+| #### Databases | PostgreSQL, MySQL |
+| #### Cloud/DevOps | AWS, Docker, Git, CI/CD |
+| #### Tools | IntelliJ, VS Code, Postman |
+| --- | --- |
 
 ### 📫 Connect With Me
 #### Let's connect and build something amazing!
