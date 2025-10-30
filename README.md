@@ -1,10 +1,5 @@
 ### 👋 Hi there, I'm Jagman!
 
-### 🌱 What I'm Currently Working On
-
-##### Learning more about Spring Security and Typescript.
-##### Building out a personal project focused on Natural Language Processing.
-
 ### 💻 My Skillset
 | |  |
 | --- | --- |
