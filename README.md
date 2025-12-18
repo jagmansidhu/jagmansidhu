@@ -1,13 +1,12 @@
 ## Hi, I'm Jagman
 
-##About me:
+# About me:
 
 - I'm an undergraduate at the **University of British Columbia** Studying **Computer Science**
 - Most of my experience is in **full stack development** and **cloud infrastructure**
 - I'm pursing concentrations in **Software Architecture** and **Network Protocols**
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagmans) 
 
 # 💻 Tech Stack:
