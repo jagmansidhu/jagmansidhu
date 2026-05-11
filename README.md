@@ -2,9 +2,9 @@
     <a href="https://www.linkedin.com/in/jagmansidhu" target="_blank">
       <img align="right" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" height="40"/>
     </a>
-  <a href="https://jagmansidhu.com" target="_blank">
+  <!-- <a href="https://jagmansidhu.com" target="_blank">
       <img align="right" src="https://img.shields.io/badge/Website-jagmansidhu.com-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" style="margin-bottom: 5px;" height="40"/>
-    </a>
+    </a> -->
 </h2>
 
 <br clear="all"/>
