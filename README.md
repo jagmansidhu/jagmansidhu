@@ -1,14 +1,76 @@
-## Hi, I'm Jagman
+<h2>This is my Github!
+    <a href="https://www.linkedin.com/in/jagmansidhu" target="_blank">
+      <img align="right" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" height="40"/>
+    </a>
+  <a href="https://jagmansidhu.com" target="_blank">
+      <img align="right" src="https://img.shields.io/badge/Website-jagmansidhu.com-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" style="margin-bottom: 5px;" height="40"/>
+    </a>
+</h2>
 
-A Full Stack Developer with focus in Spring Boot and AWS cloud automation, dedicated to engineering secure, resilient backend systems.
+<br clear="all"/>
+<br/>
 
-### Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagmans) 
+<!-- Projects side by side -->
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <!-- Project 1: UBC MMHC -->
+      <td align="center" valign="top" width="50%" style="padding: 10px;">
+        <a href="https://ubcmmhc.com">
+          <img 
+            src="https://github.com/user-attachments/assets/8c2c837a-edd0-4b8a-a969-6977c53c10df"
+            alt="UBC Men's Mental Health Club" 
+            width="100%" 
+            style="border-radius: 8px; border: 1px solid #30363d; display: block; margin-bottom: 12px;"
+          />
+        </a>
+        <strong style="font-size: 1.2em;">UBC Men's Mental Health Club</strong><br/>
+        <div style="margin: 8px 0;">
+          <!-- <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> -->
+          <!-- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> -->
+        </div>
+        <a href="https://ubcmmhc.com">
+          <img 
+            src="https://img.shields.io/badge/Visit_Site-ubcmmhc.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white" 
+            alt="Visit Website" 
+            width="180" 
+            style="margin-top: 10px;"
+          />
+        </a>
+      </td>
+      <!-- Project 2: DaRoommate -->
+      <td align="center" valign="top" width="50%" style="padding: 10px;">
+        <a href="https://theroommate-production.up.railway.app/">
+          <img 
+            src="https://github.com/user-attachments/assets/80225f09-3bdc-4058-966c-48f5adc32ffe" 
+            alt="TheRoommate" 
+            width="100%" 
+            style="border-radius: 8px; border: 1px solid #30363d; display: block; margin-bottom: 12px;"
+          />
+        </a>
+        <strong style="font-size: 1.2em;">TheRoommate</strong><br/>
+        <div style="margin: 8px 0;">
+          <!-- <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> -->
+          <!-- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> -->
+        </div>
+        <a href="https://theroommate-production.up.railway.app/">
+          <img 
+          src="https://img.shields.io/badge/Website-TheRoommate-orange?style=for-the-badge&logo=googlechrome&logoColor=white"
+            alt="Visit Website" 
+            width="180" 
+            style="margin-top: 10px;"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-[![](https://visitcount.itsvg.in/api?id=jagmansidhu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+<br>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nextjs,postgres,ts,py,go,cpp,git,linux,bash,docker&theme=dark" />
+  </a>
+  <!-- <img align="right" alt="Jagman's GitHub Stats" src="https://github-readme-stats-one.vercel.app/api?username=jagmansidhu&show_icons=true&hide_rank=true&number_format=long&theme=tokyonight&layout=compact"/> -->
+</div>
