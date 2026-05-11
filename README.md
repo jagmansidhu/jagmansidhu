@@ -1,5 +1,7 @@
 ## Hi, I'm Jagman
 
+A Full Stack Developer with focus in Spring Boot and AWS cloud automation, dedicated to engineering secure, resilient backend systems.
+
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagmans) 
 
